@@ -130,8 +130,8 @@ http://127.0.0.1:8000/
 ```json
 {
   "name": "Nithin",
-  "age": 22,
-  "email": "nithin@example.com"
+  "roll": 22,
+  "course": "python"
 }
 ```
 
@@ -159,8 +159,6 @@ You can test the API using:
 ## 👨‍💻 Author
 
 **Nithin S**
-
-* GitHub: https://github.com/your-username
 
 ---
 
